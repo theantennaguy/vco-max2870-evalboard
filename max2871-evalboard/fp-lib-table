@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "CONSMA002-L_SMA_COAX_CONN")(type "KiCad")(uri "${KIPRJMOD}/parts/CONSMA002-L_SMA_COAX_CONN")(options "")(descr ""))
+  (lib (name "USB-B1HSB6")(type "KiCad")(uri "${KIPRJMOD}/parts/USB-B1HSB6")(options "")(descr ""))
+  (lib (name "MAX8559ETAAAT")(type "KiCad")(uri "${KIPRJMOD}/parts/MAX8559ETAAAT")(options "")(descr ""))
+  (lib (name "MAX2871ETJ")(type "KiCad")(uri "${KIPRJMOD}/parts/MAX2871ETJ")(options "")(descr ""))
+  (lib (name "TL3365AF180QG")(type "KiCad")(uri "${KIPRJMOD}/parts/TL3365AF180QG")(options "")(descr ""))
+)
