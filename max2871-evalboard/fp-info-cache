@@ -1,4 +1,11 @@
-20343422105202953
+20346762469170849
+54819-0519
+MOLEX_54819-0519
+
+
+0
+14
+14
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -80435,7 +80442,7 @@ SW_TL3365AF180QG
 
 0
 4
-4
+2
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
@@ -86008,3 +86015,10 @@ varistor SIOV
 0
 2
 2
+XKBS22E05-Z
+XKBS22E05-Z
+
+
+0
+8
+7

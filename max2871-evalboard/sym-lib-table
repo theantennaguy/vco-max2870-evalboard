@@ -2,4 +2,5 @@
   (lib (name "CWX813-008.0M")(type "KiCad")(uri "${KIPRJMOD}/parts/CWX813-008.0M/CWX813-008.0M.kicad_sym")(options "")(descr ""))
   (lib (name "MAX2871ETJ_")(type "KiCad")(uri "${KIPRJMOD}/parts/MAX2871ETJ/MAX2871ETJ_.kicad_sym")(options "")(descr ""))
   (lib (name "MAX8559ETAAAT")(type "KiCad")(uri "${KIPRJMOD}/parts/MAX8559ETAAAT/MAX8559ETAAAT.kicad_sym")(options "")(descr ""))
+  (lib (name "XKBS22E05-Z")(type "KiCad")(uri "${KIPRJMOD}/parts/XKBS22E05/XKBS22E05-Z.kicad_sym")(options "")(descr ""))
 )
