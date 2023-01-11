@@ -6,4 +6,6 @@
   (lib (name "TL3365AF180QG")(type "KiCad")(uri "${KIPRJMOD}/parts/TL3365AF180QG")(options "")(descr ""))
   (lib (name "XKBS22E05-Z")(type "KiCad")(uri "${KIPRJMOD}/parts/XKBS22E05/XKBS22E05-Z.pretty")(options "")(descr ""))
   (lib (name "54819-0519")(type "KiCad")(uri "${KIPRJMOD}/parts/54819-0519")(options "")(descr ""))
+  (lib (name "LMH2110TM_NOPB")(type "KiCad")(uri "${KIPRJMOD}/parts/LMH2110TM_NOPB")(options "")(descr ""))
+  (lib (name "USB4105-GF-A")(type "KiCad")(uri "${KIPRJMOD}/parts/USB4105-GF-A")(options "")(descr ""))
 )

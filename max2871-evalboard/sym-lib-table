@@ -3,4 +3,6 @@
   (lib (name "MAX2871ETJ_")(type "KiCad")(uri "${KIPRJMOD}/parts/MAX2871ETJ/MAX2871ETJ_.kicad_sym")(options "")(descr ""))
   (lib (name "MAX8559ETAAAT")(type "KiCad")(uri "${KIPRJMOD}/parts/MAX8559ETAAAT/MAX8559ETAAAT.kicad_sym")(options "")(descr ""))
   (lib (name "XKBS22E05-Z")(type "KiCad")(uri "${KIPRJMOD}/parts/XKBS22E05/XKBS22E05-Z.kicad_sym")(options "")(descr ""))
+  (lib (name "LMH2110TM_NOPB")(type "KiCad")(uri "${KIPRJMOD}/parts/LMH2110TM_NOPB/LMH2110TM_NOPB.kicad_sym")(options "")(descr ""))
+  (lib (name "RF_PARTS")(type "KiCad")(uri "${KIPRJMOD}/parts/RF_PARTS.kicad_sym")(options "")(descr ""))
 )
