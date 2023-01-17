@@ -118,7 +118,7 @@
         "min_through_hole_diameter": 0.19999999999999998,
         "min_track_width": 0.19999999999999998,
         "min_via_annular_width": 0.049999999999999996,
-        "min_via_diameter": 0.39999999999999997,
+        "min_via_diameter": 0.44999999999999996,
         "solder_mask_clearance": 0.0,
         "solder_mask_min_width": 0.0,
         "use_height_for_length_calcs": true
@@ -138,7 +138,7 @@
           "drill": 0.0
         },
         {
-          "diameter": 0.4,
+          "diameter": 0.45,
           "drill": 0.2
         },
         {
@@ -439,7 +439,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "max2871-evalboard.step",
       "vrml": ""
     },
     "page_layout_descr_file": "/Users/ricardogoncalves/Documents/KiCad/6.0/page_layouts/page_layout_2023.kicad_wks"
